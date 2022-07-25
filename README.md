@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edsoma. I am a senior IT executive, passionated about coding.
+- 👋 Hi, I’m @Edsoma. I am a senior IT executive, passionate about coding.
 - 👀 I’m interested in AI, Blockchain, and Quantum Computing.
 - 🌱 I’m currently learning and working with Quantum anneling.
 - 💞️ I’m looking to collaborate on implementing quantum algorithimcs using Python or C++.
